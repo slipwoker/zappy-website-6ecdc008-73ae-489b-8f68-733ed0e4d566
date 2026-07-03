@@ -1,0 +1,84 @@
+# Pink Cherry — Generative Engine Optimization Map
+
+> Pink Cherry is a K-pop merchandise shop specializing in authentic albums, lomocards, and photocards from popular K-pop groups. The brand carries a youthful, fan-driven energy with a sweet and vibrant personality reflected in its name. The store caters to dedicated K-pop fans looking for genuine collectibles and fan merchandise.
+
+---
+
+## Pages
+
+### בית
+https://pink-cherry-6ecdc008.zappy5.app
+חנות מרצ&#39;נדייז קיי-פופ מובילה עם אלבומים, לומוקארדים ופוטוקארדים מקוריים. קנו עכשיו סיטונאות פינק צ&#39;רי במחירים שווים לכל מעריץ אמיתי!
+
+### אותנטיות
+https://pink-cherry-6ecdc008.zappy5.app/authenticity
+מתחייבים למקוריות מלאה בכל פריט קיי-פופ! גלו איך פינק צ&#39;רי מבטיחה סחורה אמיתית לחוויית אספנות מושלמת. הצטרפו לקהילת המעריצים הנאמנה.
+
+### גלריית מעריצים
+https://pink-cherry-6ecdc008.zappy5.app/fan-gallery
+התפארו באוסף הקיי-פופ שלכם! העלו תמונות, שתפו אהבה וקבלו השראה ממעריצים אחרים. פינק צ&#39;רי סיטונאות מחכה לכם עם מיטב הפריטים.
+
+### צור קשר
+https://pink-cherry-6ecdc008.zappy5.app/contact
+יש שאלה על הזמנה סיטונאית או סתם בא לכם לפטפט על קיי-פופ? צרו קשר עם פינק צ&#39;רי עוד היום ונתחיל לעצב את האוסף החלומי שלכם ביחד!
+
+### Products
+https://pink-cherry-6ecdc008.zappy5.app/products
+המוצרים שלנו - Pink Cherry
+
+### Product Detail
+https://pink-cherry-6ecdc008.zappy5.app/product/:slug
+פרטי המוצר - Pink Cherry
+
+### Category
+https://pink-cherry-6ecdc008.zappy5.app/category/:slug
+מוצרים - Pink Cherry
+
+### תודה רבה
+https://pink-cherry-6ecdc008.zappy5.app/thank-you
+Pink Cherry - תודה רבה
+
+## Legal & Policy
+
+### Privacy Policy
+https://pink-cherry-6ecdc008.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://pink-cherry-6ecdc008.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://pink-cherry-6ecdc008.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Pink Cherry
+Pink Cherry is a K-pop merchandise shop specializing in authentic albums, lomocards, and photocards from popular K-pop groups. The brand carries a youthful, fan-driven energy with a sweet and vibrant personality reflected in its name. The store caters to dedicated K-pop fans looking for genuine collectibles and fan merchandise.
+
+## Target Audience
+- אוהדי קייפופ
+- אספני מרצ׳נדייז
+- קונים מתנות לאוהדים
+
+## Industry
+E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://pink-cherry-6ecdc008.zappy5.app/sitemap.xml
+- Robots: https://pink-cherry-6ecdc008.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://pink-cherry-6ecdc008.zappy5.app/llms-full.txt
+- Products (JSON): https://pink-cherry-6ecdc008.zappy5.app/products.json
+- Products (Google Merchant RSS): https://pink-cherry-6ecdc008.zappy5.app/product-feed.xml
