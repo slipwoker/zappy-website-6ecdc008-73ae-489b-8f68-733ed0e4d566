@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://example.com
+https://pink-cherry.zappy5.app
 חנות מרצ&#39;נדייז קיי-פופ מובילה עם אלבומים, לומוקארדים ופוטוקארדים מקוריים. קנו עכשיו סיטונאות פינק צ&#39;רי במחירים שווים לכל מעריץ אמיתי!
 
 ### אותנטיות
-https://example.com/authenticity
+https://pink-cherry.zappy5.app/authenticity
 מתחייבים למקוריות מלאה בכל פריט קיי-פופ! גלו איך פינק צ&#39;רי מבטיחה סחורה אמיתית לחוויית אספנות מושלמת. הצטרפו לקהילת המעריצים הנאמנה.
 
 ### גלריית מעריצים
-https://example.com/fan-gallery
+https://pink-cherry.zappy5.app/fan-gallery
 התפארו באוסף הקיי-פופ שלכם! העלו תמונות, שתפו אהבה וקבלו השראה ממעריצים אחרים. פינק צ&#39;רי סיטונאות מחכה לכם עם מיטב הפריטים.
 
 ### צור קשר
-https://example.com/contact
+https://pink-cherry.zappy5.app/contact
 יש שאלה על הזמנה סיטונאית או סתם בא לכם לפטפט על קיי-פופ? צרו קשר עם פינק צ&#39;רי עוד היום ונתחיל לעצב את האוסף החלומי שלכם ביחד!
 
 ### Products
-https://example.com/products
+https://pink-cherry.zappy5.app/products
 המוצרים שלנו - Pink Cherry
 
 ### Product Detail
-https://example.com/product/:slug
+https://pink-cherry.zappy5.app/product/:slug
 פרטי המוצר - Pink Cherry
 
 ### Category
-https://example.com/category/:slug
+https://pink-cherry.zappy5.app/category/:slug
 מוצרים - Pink Cherry
 
 ### תודה רבה
-https://example.com/thank-you
+https://pink-cherry.zappy5.app/thank-you
 Pink Cherry - תודה רבה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://pink-cherry.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://pink-cherry.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://pink-cherry.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -77,8 +77,8 @@ E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://pink-cherry.zappy5.app/sitemap.xml
+- Robots: https://pink-cherry.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://pink-cherry.zappy5.app/llms-full.txt
+- Products (JSON): https://pink-cherry.zappy5.app/products.json
+- Products (Google Merchant RSS): https://pink-cherry.zappy5.app/product-feed.xml
